@@ -1,0 +1,1 @@
+path_start(path_bird,3,path_action_continue,0);
